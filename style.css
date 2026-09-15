@@ -16,7 +16,7 @@ body {
 
 /* --- CABEÇALHO --- */
 header {
-    color: rgb(216, 217, 255); /* Define a cor dos textos dentro do cabeçalho */
+    color: rgb(255, 251, 251); /* Define a cor dos textos dentro do cabeçalho */
     text-align: center; /* Centraliza horizontalmente o texto e as imagens no cabeçalho */
     background-color: rgb(61, 8, 8); /* Define a cor de fundo do cabeçalho */
 }
@@ -118,7 +118,7 @@ section ul {
 
 /* Efeito ao passar o mouse sobre o cartão de link */
 .cartao-link:hover {
-    background-color: rgb(214, 230, 230); /* Altera a cor de fundo do cartão ao passar o cursor */
+    background-color: rgb(235, 235, 235); /* Altera a cor de fundo do cartão ao passar o cursor */
 }
 
 /* --- CARDS (PÁGINA DE PROJETOS) --- */
